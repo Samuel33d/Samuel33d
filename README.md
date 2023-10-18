@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sbenedetti89@gmail.com**
 
-- 📄 Know about my experiences [Looking for that first work experience in the IT world](Looking for that first work experience in the IT world)
+- 📄 Know about my experiences Looking for that first work experience in the IT world
 
 - ⚡ Fun fact **I really love Baseball⚾**
 
