@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZG8lMjBzb21ldGhpbmclMjBncmVhdHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"/>
+<img  style="height: 300px; width:1024px" src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZG8lMjBzb21ldGhpbmclMjBncmVhdHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"/>
 
 
 <h1 align="center">Hi 👋, I'm Samuel Benedetti</h1>
