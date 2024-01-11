@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Benedetti</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-- 🔭 I’m currently working on [Rick & Morty App](https://rickandmortyappsbacademlo.netlify.app/)
+- 🔭 I’m currently working on [Space Tourism](https://space-tourismsb.vercel.app/)
 
 - 🌱 I’m currently learning **ReactJS, AngularJS, Javascript**
 
